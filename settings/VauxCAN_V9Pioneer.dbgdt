@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Project>
+  <Desktop>
+    <Static>
+      <Debug-Log/>
+      <Build>
+        <ColumnWidth0>20</ColumnWidth0>
+        <ColumnWidth1>1215</ColumnWidth1>
+        <ColumnWidth2>324</ColumnWidth2>
+        <ColumnWidth3>81</ColumnWidth3>
+      </Build>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>124</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      </Workspace>
+      <Disassembly>
+        
+        
+      <MixedMode>1</MixedMode><CodeCovShow>0</CodeCovShow></Disassembly>
+    </Static>
+    <Windows>
+      
+      
+      
+    <Wnd0>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-32166-13959</Identity>
+            <TabName>Debug Log</TabName>
+            <Factory>Debug-Log</Factory>
+            <Session/>
+          </Tab>
+          <Tab>
+            <Identity>TabID-31643-13969</Identity>
+            <TabName>Build</TabName>
+            <Factory>Build</Factory>
+            <Session/>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd0><Wnd1>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-10146-13962</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>VauxCAN_V9Pioneer</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd1><Wnd2>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-20895-13966</Identity>
+            <TabName>Disassembly</TabName>
+            <Factory>Disassembly</Factory>
+            <Session/>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd2></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>C:\progs\R8C\All in 1 CAN Stalks\Vauxhall\V9Pioneer\vaux nm\vaux_nm.c</Filename><XPos>0</XPos><YPos>315</YPos><SelStart>10135</SelStart><SelEnd>10135</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\progs\R8C\All in 1 CAN Stalks\Vauxhall\V9Pioneer\Carside\carside.c</Filename><XPos>0</XPos><YPos>1457</YPos><SelStart>43865</SelStart><SelEnd>43865</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\progs\R8C\All in 1 CAN Stalks\Vauxhall\V9Pioneer\Carside\CarsideInternal.h</Filename><XPos>0</XPos><YPos>19</YPos><SelStart>1270</SelStart><SelEnd>1280</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\progs\R8C\All in 1 CAN Stalks\Vauxhall\V9Pioneer\main.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>822</SelStart><SelEnd>822</SelEnd></Tab><ActiveTab>3</ActiveTab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-01298928><key>iaridepm.enu1</key></Toolbar-01298928></Sizes></Row0><Row1><Sizes><Toolbar-034d03c0><key>debuggergui.enu1</key></Toolbar-034d03c0></Sizes></Row1><Row2><Sizes/></Row2></Top><Left><Row0><Sizes><Wnd1><Rect><Top>-2</Top><Left>-2</Left><Bottom>704</Bottom><Right>198</Right><x>-2</x><y>-2</y><xscreen>200</xscreen><yscreen>200</yscreen><sizeHorzCX>119048</sizeHorzCX><sizeHorzCY>206186</sizeHorzCY><sizeVertCX>119048</sizeVertCX><sizeVertCY>727835</sizeVertCY></Rect></Wnd1></Sizes></Row0></Left><Right><Row0><Sizes><Wnd2><Rect><Top>-2</Top><Left>-2</Left><Bottom>704</Bottom><Right>198</Right><x>-2</x><y>-2</y><xscreen>200</xscreen><yscreen>200</yscreen><sizeHorzCX>119048</sizeHorzCX><sizeHorzCY>206186</sizeHorzCY><sizeVertCX>119048</sizeVertCX><sizeVertCY>727835</sizeVertCY></Rect></Wnd2></Sizes></Row0></Right><Bottom><Row0><Sizes><Wnd0><Rect><Top>-2</Top><Left>-2</Left><Bottom>198</Bottom><Right>1682</Right><x>-2</x><y>-2</y><xscreen>1684</xscreen><yscreen>200</yscreen><sizeHorzCX>1002381</sizeHorzCX><sizeHorzCY>206186</sizeHorzCY><sizeVertCX>119048</sizeVertCX><sizeVertCY>206186</sizeVertCY></Rect></Wnd0></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Project>
+
+

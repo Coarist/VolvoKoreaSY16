@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Project>
+  <Desktop>
+    <Static>
+      <Debug-Log/>
+      <Build>
+        <ColumnWidth0>20</ColumnWidth0>
+        <ColumnWidth1>915</ColumnWidth1>
+        <ColumnWidth2>244</ColumnWidth2>
+        <ColumnWidth3>61</ColumnWidth3>
+      </Build>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>187</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      </Workspace>
+      <Disassembly>
+        <PreferedWindows>
+          <Position>2</Position>
+          <ScreenPosX>0</ScreenPosX>
+          <ScreenPosY>0</ScreenPosY>
+          <Windows/>
+        </PreferedWindows>
+        <MixedMode>1</MixedMode>
+        <CodeCovShow>0</CodeCovShow>
+      </Disassembly>
+      <Watch>
+        <Format>
+          <struct_types><Fmt><Key>TCANInitData-gmask</Key><Value>4</Value></Fmt><Fmt><Key>TCANInitData-gmaskext</Key><Value>4</Value></Fmt><Fmt><Key>TCANInitData-maska</Key><Value>4</Value></Fmt><Fmt><Key>TCANInitData-maskaext</Key><Value>4</Value></Fmt><Fmt><Key>TCANInitData-maskb</Key><Value>4</Value></Fmt><Fmt><Key>TCANInitData-maskbext</Key><Value>4</Value></Fmt></struct_types>
+          <watch_formats/>
+        </Format>
+        <PreferedWindows>
+          
+          
+          
+          
+        <Position>2</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows/></PreferedWindows>
+        
+        
+        
+        
+      <Column0>100</Column0><Column1>100</Column1><Column2>100</Column2><Column3>100</Column3></Watch>
+      <Locals>
+        
+        
+        
+        
+      <Column0>100</Column0><Column1>188</Column1><Column2>100</Column2><Column3>100</Column3></Locals>
+      <STACK2/>
+    </Static>
+    <Windows>
+      
+      
+      
+      
+    <Wnd4>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-11606-18512</Identity>
+            <TabName>Debug Log</TabName>
+            <Factory>Debug-Log</Factory>
+            <Session/>
+          </Tab>
+          <Tab>
+            <Identity>TabID-11083-18522</Identity>
+            <TabName>Build</TabName>
+            <Factory>Build</Factory>
+            <Session/>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd4><Wnd5>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-22354-18515</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>VauxCAN_V8Pioneer</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd5><Wnd6>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-16207-19449</Identity>
+            <TabName>Locals</TabName>
+            <Factory>Locals</Factory>
+            <Session>
+              
+              
+              
+              
+            <Column0>100</Column0><Column1>188</Column1><Column2>100</Column2><Column3>100</Column3></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd6><Wnd7>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-29318-22888</Identity>
+            <TabName>Stack</TabName>
+            <Factory>STACK2</Factory>
+            <Session>
+              
+              
+              
+              
+              
+              
+              
+              
+              
+            <ShowVariables>1</ShowVariables><ShowOffsets>1</ShowOffsets><UnitWidth>1</UnitWidth><SelectedStack>0</SelectedStack><AddressColWidth>95</AddressColWidth><StackColWidth>95</StackColWidth><SymbolColWidth>90</SymbolColWidth><ValueColWidth>60</ValueColWidth><FrameColWidth>60</FrameColWidth></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd7></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>C:\progs\R8C\All in 1 CAN Stalks\Vauxhall\V8Pioneer\Carside\carside.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>3040</SelStart><SelEnd>3040</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\progs\R8C\All in 1 CAN Stalks\Vauxhall\V8Pioneer\Carside\CarsideInternal.h</Filename><XPos>0</XPos><YPos>171</YPos><SelStart>6453</SelStart><SelEnd>6453</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\progs\R8C\All in 1 CAN Stalks\Vauxhall\V8Pioneer\main.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>683</SelStart><SelEnd>683</SelEnd></Tab><ActiveTab>2</ActiveTab><Tab><Factory>TextEditor</Factory><Filename>C:\progs\R8C\All in 1 CAN Stalks\Vauxhall\V8Pioneer\Vauxhall Stalk\vauxhall_stalk.c</Filename><XPos>0</XPos><YPos>33</YPos><SelStart>1874</SelStart><SelEnd>1874</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\progs\R8C\All in 1 CAN Stalks\Vauxhall\V8Pioneer\Vauxhall Stalk\vauxhall_stalk_internal.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>128</SelStart><SelEnd>128</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\progs\R8C\All in 1 CAN Stalks\Vauxhall\V8Pioneer\Radioside\radioside.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>236</SelStart><SelEnd>236</SelEnd></Tab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-01298848><key>iaridepm.enu1</key></Toolbar-01298848></Sizes></Row0><Row1><Sizes><Toolbar-0362b4b0><key>debuggergui.enu1</key></Toolbar-0362b4b0></Sizes></Row1></Top><Left><Row0><Sizes><Wnd5><Rect><Top>-2</Top><Left>-2</Left><Bottom>698</Bottom><Right>261</Right><x>-2</x><y>-2</y><xscreen>263</xscreen><yscreen>206</yscreen><sizeHorzCX>156548</sizeHorzCX><sizeHorzCY>212371</sizeHorzCY><sizeVertCX>156548</sizeVertCX><sizeVertCY>721649</sizeVertCY></Rect></Wnd5></Sizes></Row0><Row1><Sizes><Wnd7><Rect><Top>-2</Top><Left>259</Left><Bottom>698</Bottom><Right>549</Right><x>259</x><y>-2</y><xscreen>263</xscreen><yscreen>206</yscreen><sizeHorzCX>156548</sizeHorzCX><sizeHorzCY>212371</sizeHorzCY><sizeVertCX>172619</sizeVertCX><sizeVertCY>721649</sizeVertCY></Rect></Wnd7></Sizes></Row1></Left><Right><Row0><Sizes><Wnd6><Rect><Top>-2</Top><Left>-2</Left><Bottom>698</Bottom><Right>452</Right><x>-2</x><y>-2</y><xscreen>263</xscreen><yscreen>206</yscreen><sizeHorzCX>156548</sizeHorzCX><sizeHorzCY>212371</sizeHorzCY><sizeVertCX>270238</sizeVertCX><sizeVertCY>721649</sizeVertCY></Rect></Wnd6></Sizes></Row0></Right><Bottom><Row0><Sizes><Wnd4><Rect><Top>-2</Top><Left>-2</Left><Bottom>204</Bottom><Right>1682</Right><x>-2</x><y>-2</y><xscreen>1684</xscreen><yscreen>206</yscreen><sizeHorzCX>1002381</sizeHorzCX><sizeHorzCY>212371</sizeHorzCY><sizeVertCX>156548</sizeVertCX><sizeVertCY>212371</sizeVertCY></Rect></Wnd4></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Project>
+
+
